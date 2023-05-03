@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Lab3", "Memento.Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Lab4", "Strategy.Lab4\Strategy.Lab4.csproj", "{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Lab5", "TemplateMethod.Lab5\TemplateMethod.Lab5.csproj", "{1A6ACC98-627A-435C-B2D6-2281510581C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6ACC98-627A-435C-B2D6-2281510581C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6ACC98-627A-435C-B2D6-2281510581C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6ACC98-627A-435C-B2D6-2281510581C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6ACC98-627A-435C-B2D6-2281510581C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
