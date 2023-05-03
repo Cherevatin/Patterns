@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator.Lab1", "Iterator.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Lab3", "Memento.Lab3\Memento.Lab3.csproj", "{C6BB2B89-F025-48A4-956D-992C847AFE57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Lab4", "Strategy.Lab4\Strategy.Lab4.csproj", "{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C6BB2B89-F025-48A4-956D-992C847AFE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6BB2B89-F025-48A4-956D-992C847AFE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6BB2B89-F025-48A4-956D-992C847AFE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20A9362-812F-4E01-A7DC-14C87D5BC2B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
